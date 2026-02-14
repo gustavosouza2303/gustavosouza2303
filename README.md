@@ -1,4 +1,4 @@
-<img src="https://cdn.discordapp.com/attachments/604417261905772545/1472091105557217412/foda.jpg?ex=69914f2d&is=698ffdad&hm=739bdd8a051bc8fdd87c4036c664a609b8a1f384a147584929a1db077bc29acd">
+<img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c83c004e-1370-4756-88e5-4071de797088/dfphxwp-4e0e4481-446a-45c8-a0d5-b2d6e4f3c166.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi9jODNjMDA0ZS0xMzcwLTQ3NTYtODhlNS00MDcxZGU3OTcwODgvZGZwaHh3cC00ZTBlNDQ4MS00NDZhLTQ1YzgtYTBkNS1iMmQ2ZTRmM2MxNjYuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.GUB17rspb4uYicFDpNiev-Q8a6PGjGW-35xO-bu78wg">
 
 <p align=center style="font-size=:50px";>Bem-vindo(a) ao meu GitHub!</p>
 <h1 align=center>Olá! Eu sou o Gustavo de Souza. 👋</h1>
