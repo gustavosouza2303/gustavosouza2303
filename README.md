@@ -1,6 +1,8 @@
 <img src="https://cdn.discordapp.com/attachments/604417261905772545/1472091105557217412/foda.jpg?ex=69914f2d&is=698ffdad&hm=739bdd8a051bc8fdd87c4036c664a609b8a1f384a147584929a1db077bc29acd">
 
-<h1 align=center>Olá! Eu sou o Gustavo de Souza 👋</h1>
+<p align=center style="font-size=:50px";>Bem-vindo(a) ao meu GitHub!</p>
+<h1 align=center>Olá! Eu sou o Gustavo de Souza. 👋</h1>
+
 
 <!--
 **gustavosouza2303/gustavosouza2303** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,12 +15,12 @@ Here are some ideas to get you started:
 
 <img align="right" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="450"/>
 <br>
-- 🎓 Estudante de **ADS** na __SPTech School__. <br><br>
-- 💡 Interessado em desenvolvimento **Back-End** e
-  **Banco de Dados**. <br><br>
-- 🚗 Entusiasta de **automobilismo**. <br><br>
+- 🎓 Estudante de ADS na SPTech School. <br><br>
+- 💡 Interessado em desenvolvimento Back-End e
+  Banco de Dados. <br><br>
+- 🚗 Entusiasta de automobilismo. <br><br>
 - 📚 Sempre aprendendo algo novo. <br><br>
-- 🎮 **Gamer** nas horas vagas. 
+- 🎮 Gamer nas horas vagas. 
 
 <br><br><br>
 <div style="display: inline_block"><br>
