@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 
 <img align="right" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="450"/>
 <br>
-- 🎓 Estudante de **ADS** na **SPTech School**. <br><br>
+- 🎓 Estudante de **ADS** na __SPTech School__. <br><br>
 - 💡 Interessado em desenvolvimento **Back-End** e
   **Banco de Dados**. <br><br>
 - 🚗 Entusiasta de **automobilismo**. <br><br>
